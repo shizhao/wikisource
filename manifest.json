@@ -1,0 +1,20 @@
+{
+  "name": "Wikisource",
+  "description": "Wikisource, the free library",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http://*.wikisource.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.wikisource.org/"
+    }
+  },
+  "icons": {
+    "128": "Wikisource-logo.png"
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
